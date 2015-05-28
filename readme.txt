@@ -3,6 +3,7 @@ Tags: facebook share popup, facebook share,facebook like popup , viral share, so
 Donate link: http://wptit.com/portfolio/viralshare-facebook-popup-like-share-wordpress
 Requires at least: 2.0
 Tested up to: 4.2.2
+Stable tag: 0.1.5
 
 Viral Share Plugin ask your users to share your website article on facebook without annoying them in friendly popup style, Just like other viral website you can also make your article or website or video go viral using viral share plugin!
 
